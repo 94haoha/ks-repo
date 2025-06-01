@@ -8,7 +8,7 @@ Helm's [documentation](https://helm.sh/docs) to get started.
 
 Once Helm has been set up correctly, add the repo as follows:
 
-  helm repo add hao-helm https://haoha94.github.io/ks-repo
+  helm repo add hao-helm https://94haoha.github.io/ks-repo
 
 If you had already added this repo earlier, run `helm repo update` to retrieve
 the latest versions of the packages.  You can then run `helm search repo
